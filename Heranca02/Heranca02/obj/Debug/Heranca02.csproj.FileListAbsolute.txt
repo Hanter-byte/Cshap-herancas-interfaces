@@ -1,0 +1,8 @@
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\bin\Debug\Heranca02.exe.config
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\bin\Debug\Heranca02.exe
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\bin\Debug\Heranca02.pdb
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\obj\Debug\Heranca02.csproj.AssemblyReference.cache
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\obj\Debug\Heranca02.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\obj\Debug\Heranca02.csproj.CoreCompileInputs.cache
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\obj\Debug\Heranca02.exe
+C:\Users\joao.psilva\Desktop\heranca02\Heranca02\Heranca02\obj\Debug\Heranca02.pdb
